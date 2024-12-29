@@ -66,14 +66,9 @@ Run the compiled executable to start playing:
 
 ## **Future Improvements**
 We are looking to enhance the game with the following features:
-- Single-player mode with AI.
 - Graphical user interface (GUI) using modern frameworks.
 - Online multiplayer functionality.
 
----
-
-## **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
