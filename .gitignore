@@ -1,0 +1,9 @@
+# Ignore IDE-specific folders
+.idea/
+.vscode/
+
+# Ignore compiled files
+*.exe
+
+# Ignore temporary files
+temp*
