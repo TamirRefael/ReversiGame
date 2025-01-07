@@ -39,6 +39,15 @@ To create a fully-functional Reversi game featuring multiple game modes, an inte
 
 ## **🚀 How to Use**
 1. **Start the Program**:
+   - How to Compile and Run the Project
+      - Open the project in Visual Studio Code
+        Make sure the terminal is open in the root directory of the project.
+      - Compile the project
+        Run the following command in the terminal to compile the project:
+        g++ -o reversi *.cpp
+      - Run the program
+        After successful compilation, execute the following command to run the program:
+        ./reversi
    - Run the program to access the main menu.
    - Register with a username and password (mandatory to play).
 2. **Game Options**:
